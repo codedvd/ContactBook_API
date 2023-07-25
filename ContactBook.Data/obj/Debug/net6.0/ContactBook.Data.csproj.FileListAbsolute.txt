@@ -1,0 +1,17 @@
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\bin\Debug\net6.0\ContactBook.Data.deps.json
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\bin\Debug\net6.0\ContactBook.Data.runtimeconfig.json
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\bin\Debug\net6.0\ContactBook.Data.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\bin\Debug\net6.0\ContactBook.Data.pdb
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\bin\Debug\net6.0\ContactBook.Models.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\bin\Debug\net6.0\ContactBook.Models.pdb
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ContactBook.Data.csproj.AssemblyReference.cache
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ContactBook.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ContactBook.Data.AssemblyInfoInputs.cache
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ContactBook.Data.AssemblyInfo.cs
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ContactBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ContactBook.Data.csproj.CopyComplete
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ContactBook.Data.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\refint\ContactBook.Data.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ContactBook.Data.pdb
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ContactBook.Data.genruntimeconfig.cache
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Data\obj\Debug\net6.0\ref\ContactBook.Data.dll
